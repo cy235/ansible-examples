@@ -1,4 +1,4 @@
-# The global variable file mongodb installation
+# The global variable file mongodb installation #
 
 # The chunksize for shards in MB
 mongos_chunk_size: 1
